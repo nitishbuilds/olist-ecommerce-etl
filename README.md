@@ -82,3 +82,6 @@ Future improvements
 - Add logging
 - Automate the pipeline
 - Connect to a cloud database
+
+
+Export the processed tables using pandas if needed for visualization.
